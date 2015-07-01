@@ -1,0 +1,33 @@
+
+Jack King
+By Day: Systems Engineer at [University of Kentucky Student Affairs](http://www.uky.edu/StudentAffairs/)
+By Night: http://bourbonandbrains.blogspot.com/
+[Twitter](https://twitter.com/wjking0)
+[Tableau](http://public.tableau.com/profile/jack.king)
+
+Forematter (idle discussion)
+Where is Chad Cottle? [Github](https://github.com/ChadCottle)
+
+Jack King subscribes to [/r/datasets](https://www.reddit.com/r/datasets)
+
+----------------------------------------
+http://www.uky.edu/crimelog/
+Federal and State mandate to share this information
+
+Jack scrapes it into CSV! Lives in CSV! Stores stuff in Google Docs.
+
+Got the building management database and oined those onto the addresses!
+(here is where we see a viz that isn't publically available)
+
+Tableu public can't connect to the databases (Oracle Something?) where the live data lives, only static.
+
+Police department loved it and wants to do a live view! He got an accomidation from the Cheif!
+
+Campus Security Authority (CSA)
+  - medical facility stuff
+    - "simple assaults"
+
+Filter to residence hall
+Crimes by hour
+
+Limited to six months view
